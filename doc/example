@@ -1,0 +1,14 @@
+kobold throne room
+#######
+#.$K$.#
+#.g,g.#
+#.k,k.#
+#.k,k.#
+###+###
+#:terrain="wall"
+K:creature="kobold king",terrain="throne"
+g:creature="kobold guard"
+k:creature="kobold"
++:terrain="door"
+$:item="chest"
+,:terrain="carpet"
